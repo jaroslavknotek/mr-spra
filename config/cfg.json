@@ -1,0 +1,6 @@
+{
+  "hough_transform_minLineLength": 100,
+  "hough_transform_maxLineGap": 10,
+  "hough_transform_filter_threshold_distance": 10,
+  "hough_transform_filter_threshold_angle": 3
+}
