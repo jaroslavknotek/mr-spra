@@ -20,8 +20,6 @@ Directory `input` contains test data.
 
 ## Future work
 
-- Implement persistent storing
-- Add result post-processing e.g. compute relations to other results
 - Extend solution to non linear functions. It should work as follows
   - Extract layer with the function
   - Find center 
